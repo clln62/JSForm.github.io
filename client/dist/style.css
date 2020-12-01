@@ -1,0 +1,23 @@
+body {
+    background-color: #9ac1dd;
+    text-align: center;
+}
+
+#app_container {
+    position: relative;
+}
+
+/* Form */
+.title {
+    text-align: center;
+    color: rgb(25, 99, 131);
+    font-size: 325%;
+    font-family: fantasy;
+}
+
+#btn {
+    background: rgb(142, 74, 23);
+    color: rgb(211, 204, 193);
+    border-radius: 50%;
+}
+
